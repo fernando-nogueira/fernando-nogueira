@@ -1,5 +1,9 @@
-### Hi there 👋
+## Hello, World :raised_hand:
 
+<p align="center">
+  <img src="https://i.imgur.com/mb1iQ2x.png" />
+</p>
+ 
 <!--
 **fernando-nogueira/fernando-nogueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
