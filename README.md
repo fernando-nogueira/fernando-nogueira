@@ -1,4 +1,4 @@
-## Hello, World :raised_hand:
+## hello, world :raised_hand:
 
 <p align="center">
   <img src="https://i.imgur.com/mb1iQ2x.png" />
