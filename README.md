@@ -1,8 +1,23 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B8BBE&height=120&section=header"/>
+## Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFD43B&size=25&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Fernando+Nogueira;I+study+Economics+at+UFF;Pythonista+and+Data+Scientist;Interested+in+quantitative+finance)](https://git.io/typing-svg)
+👨‍💻 My name is Fernando Nogueira. I am from Brazil and I am 22 years old. Currently, I am a B.Sc. student majoring in Economics at the Fluminense Federal University.
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=fernando-nogueira&show_icons=true&count_private=true&hide_border=true&title_color=FFD43B&icon_color=FFD43B&text_color=4B8BBE&bg_color=0d1117" alt="Fernando Nogueira github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernando-nogueira&layout=compact&hide_border=true&title_color=FFD43B&text_color=4B8BBE&bg_color=0d1117" />
+## Skills 🌟
+
+💻Hard Skills:
+  - Python (scikit-learn, pandas, numpy, matplotlib, seaborn, statsmodels)
+  - SQL
+  - Statistics (descriptive and inferential)
+  - Econometrics (cross-sectional and time-series)
+  - Git and GitHub (version control)
+  - English (great reading, listening and writing).
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
+  <img align="center" alt="Numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
+  <img align="center" alt="Mpl" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg">
+  <img align="center" alt="Sns" height="30" width="40" src="https://user-images.githubusercontent.com/104145773/171375260-c711bda4-ff6d-4693-9a91-b234744f13ad.svg">
+  <img align="center" alt="Sklearn" height="30" width="40" src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo-notext.png">
+  <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 </div>
