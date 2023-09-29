@@ -1,16 +1,18 @@
-## Hi there 👋
+## About Me
 
-👨‍💻 My name is Fernando Nogueira. I am from Brazil and I am 22 years old. Currently, I am a B.Sc. student majoring in Economics at the Fluminense Federal University.
+My name is Fernando Nogueira. I am from Brazil and I am 22 years old. Currently, I am a B.Sc. student majoring in Economics at the Fluminense Federal University.
+- Ex-President at UFFinance and finalist at 3 investment competition being a member
+- Worked as a data scientist at an investment fund and now does an internship in macroallocation
 
-## Skills 🌟
+## Skills 
 
-Skills:
   - Python (scikit-learn, pandas, numpy, matplotlib, seaborn, statsmodels, streamlit, bs4, selenium)
   - SQL
   - Git and GitHub (version control)
   - Statistics (descriptive and inferential)
   - Econometrics (cross-sectional and time-series)
-  - English (great reading, listening and writing).
+  - English (great reading, listening and writing)
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
