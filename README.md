@@ -2,7 +2,7 @@
 
 My name is Fernando Nogueira. I am from Brazil and I am 22 years old. Currently, I am a B.Sc. student in Economics at the Fluminense Federal University.
 - Ex-President at UFFinance and finalist at 3 investment competition being a member
-- Worked as a data scientist at an investment fund and now does an internship in macroallocation
+- Worked as a data scientist at an investment fund and now does an internship in asset allocation
 
 ## Skills 
 
